@@ -1,2 +1,3 @@
 # Trace_it
-A Java software capable of plotting graph of any polynomial. JavaFX based GUI
+
+A JavaFX based GUI application, capable of plotting the graph of any polynomial equation, for multiple platforms, Android, Windows and Linux.
